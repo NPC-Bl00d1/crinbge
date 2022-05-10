@@ -1,0 +1,43 @@
+.staar {
+
+    background-color: #6e7f72;
+    font-size: 18px;
+    color: white;
+    width:100%;
+    box-shadow: 15px 15px 15px #708090;
+    border:solid 3px black;
+    border-radius: 10px;
+    }
+    
+    body{
+    
+    background-color: #94d492;
+    
+    }
+    
+    .header{
+    
+    color: black;
+    
+    }
+    
+    .footer{
+    
+    position: fixed;
+    bottom:0;
+    text-align: center;
+    color:white;
+    background-color: black;
+    width:100%;
+    font-size: 13px;
+    line-height: 3;
+    
+    }
+    
+    canvas {
+    
+    background-color: #cdccde;
+    border: solid 5px black;
+    border-radius: 10px;
+    
+    }
